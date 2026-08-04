@@ -1,0 +1,9 @@
+deepagents ## built on langgraph
+langchain
+langgraph
+langchain-openai
+langchain-groq
+ipykernel
+tavily-python
+python-dotenv
+
